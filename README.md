@@ -1,3 +1,3 @@
 # Code_Challenges
 Repository for collection of code challenges.<br>
-Description of challenges included in py file.
+Description of each challenge is included in py file.
